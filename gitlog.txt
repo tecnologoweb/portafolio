@@ -1,0 +1,35 @@
+commit e348600e36d491752fdf79c19db42e9731766f62
+Author: Carlos Indriago <mt2435@gmail.com>
+Date:   Mon Aug 24 11:51:49 2015 -0430
+
+    agregado portafolio
+
+commit b4e3891482227d522e0671160551dedaf5b6fa36
+Author: Carlos Indriago <mt2435@gmail.com>
+Date:   Mon Aug 24 11:47:57 2015 -0430
+
+    agregada descripcion
+
+commit 039addbbf44b1eb7908a517d6158b816bbe80582
+Author: Carlos Indriago <mt2435@gmail.com>
+Date:   Mon Aug 24 11:46:29 2015 -0430
+
+    agregadas las redes sociales
+
+commit a71057317ec6e0118240b61e0c877cd4ac382fad
+Author: Carlos Indriago <mt2435@gmail.com>
+Date:   Mon Aug 24 11:43:25 2015 -0430
+
+    Perfil web escrito
+
+commit 99b94738266c6b64fd2b02932298e4f794c0bfc2
+Author: Carlos Indriago <mt2435@gmail.com>
+Date:   Mon Aug 24 11:40:41 2015 -0430
+
+    subi foto de perfil y mi nombre
+
+commit f6a1861506ba4c2ea09a7c45cd72cf7c34f438fb
+Author: Carlos Indriago <mt2435@gmail.com>
+Date:   Mon Aug 24 11:34:54 2015 -0430
+
+    Estos son los archivos base de mi protafolio

@@ -1,0 +1,632 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mt",
+				"mt2435"
+			],
+			[
+				"mensaj",
+				"mensajeenvio"
+			],
+			[
+				"tovar",
+				"Tovar"
+			],
+			[
+				"tours",
+				"Tours"
+			],
+			[
+				"backgorund",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"res",
+				"reservar"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"Dano",
+				"DanoTours"
+			],
+			[
+				"T",
+				"Turismo"
+			],
+			[
+				"C",
+				"Calidad"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"inc",
+				"includes"
+			],
+			[
+				"form",
+				"formcomentario"
+			],
+			[
+				"col",
+				"col-xs-12"
+			],
+			[
+				"paq",
+				"paquetes"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"li",
+				"linkedin"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"des",
+				"Descargar"
+			],
+			[
+				"nomb",
+				"nombreapellidos"
+			],
+			[
+				"as",
+				"aspirantes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2777,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stylesheets/styles.css",
+			"settings":
+			{
+				"buffer_size": 2001,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 347.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/carlos/Desktop/mejorandogit-master/gitlog.txt",
+		"/C/Users/carlos/Desktop/mejorandogit-master/index.html",
+		"/C/Users/carlos/Downloads/brushed/brushed/index.html",
+		"/C/Users/carlos/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/carlos/Downloads/20150804_mismuebles_55c0c0688476a3631150804133848_archive/database.sql",
+		"/C/Users/carlos/Downloads/20150804_mismuebles_55c0c0688476a3631150804133848_archive/wp-config.php",
+		"/C/Users/carlos/Downloads/20150804_mismuebles_55c0c0688476a3631150804133848_archive/installer-backup.php",
+		"/C/Users/carlos/Downloads/wp-config.php",
+		"/C/xampp/htdocs/muebles1/wp-config.php",
+		"/C/xampp/php/php.ini",
+		"/C/Users/carlos/Desktop/index.php",
+		"/C/Users/carlos/Downloads/Ganando Con blogs/Facebook Viral and Marketing Social App [Foro20.com]/Facebook Viral/facebook_viral/include/dump.sql",
+		"/C/Users/carlos/Downloads/Ganando Con blogs/Facebook Viral and Marketing Social App [Foro20.com]/Facebook Viral/facebook_viral/include/config.php",
+		"/C/Users/carlos/Documents/Trabajo/Arcenal Wordpress/Themes/DESC/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Premium Plugins/wp-rankie/r-license.php",
+		"/C/Users/carlos/Downloads/.htaccess",
+		"/C/Users/carlos/Downloads/brushed/brushed/shortcodes.html",
+		"/C/Users/carlos/Downloads/mism9975@mismuebles.com.coreftp",
+		"/C/Users/carlos/Downloads/brushed/brushed/_include/js/main.js",
+		"/C/Users/carlos/Downloads/Ftp mism9975@mismuebles.com.xml",
+		"/C/Users/carlos/Desktop/tiendagotcha",
+		"/C/xampp/htdocs/rentacar/wp-config.php",
+		"/C/Users/carlos/Downloads/u133328917_ybudu.sql",
+		"/C/xampp/htdocs/rentacarpro/wp-config.php",
+		"/C/xampp/htdocs/rentacar/wp-content/wp-snapshots/tmp/20150429_executivesrentacarsca_55412e075023d2539150429191623_database.sql",
+		"/C/xampp/htdocs/rentacar/wp-content/wp-content/plugins/mega_main_menu/src/css/cache.skin.css",
+		"/C/xampp/htdocs/rentacar/wp-content/wp-snapshots/20150429_executivesrentacarsca_55412f8156b185648150429192241_database.sql",
+		"/C/xampp/htdocs/rentacar/wp-content/wp-snapshots/tmp/20150429_executivesrentacarsca_55412781b803b7599150429184833_database.sql",
+		"/C/xampp/htdocs/rentacar/wp-content/wp-snapshots/tmp/20150429_executivesrentacarsca_5541134b7b7417231150429172219_database.sql",
+		"/C/xampp/htdocs/rentacar/wp-content/wp-snapshots/20150429_executivesrentacarsca_55412f8156b185648150429192241_installer.php",
+		"/C/xampp/htdocs/rentacar/wp-settings.php",
+		"/C/Users/carlos/Desktop/.htaccess",
+		"/C/Users/carlos/Desktop/php.ini",
+		"/C/xampp/htdocs/linyinrichard/contact.php",
+		"/C/xampp/htdocs/linyinrichard/contact.html",
+		"/C/Users/carlos/Documents/Trabajo/Renta Car/web/home1",
+		"/C/xampp/htdocs/contacto/cabecera.html",
+		"/C/xampp/htdocs/contacto/index.php",
+		"/C/xampp/htdocs/linyinrichard/config-formulario.php",
+		"/C/xampp/htdocs/linyinrichard/recaptchalib.php",
+		"/C/Users/carlos/Documents/Trabajo/Renta Car/web/rentacar pie modelo 1",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/languages/ru_RU.po",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/languages/en_GB.po",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/functions-themeinstall.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/languages/en_GB.mo",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/design/basic-config/seowp-menu-megamainmenu.txt",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/index.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/page.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/single-lbmn_footer.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/single.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/design/functions-themedefaults.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/iconfont/selection.json",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/functions-extras.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/functions-ini.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/functions-nopluginsinstalled.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/customizer/customized-css.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/customizer/customizer-admin.css",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/customizer/customizer-admin.js",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/customizer/customizer-preview.js",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/customizer/customizer.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/plugins-integration/livecomposer-archive.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/plugins-integration/livecomposer-footer.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/plugins-integration/livecomposer-search.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/plugins-integration/livecomposer.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/plugins-integration/masterslider.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/plugins-integration/megamainmenu.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/inc/plugins-integration/metaboxes.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/javascripts/scripts.js",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/javascripts/wpadmin-scripts.js",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/all-icons-page.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/comments.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/content.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/footer.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/functions.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/header.php",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/style.css",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/sass/style.scss",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/design/demo-content/seowp-demomegamenu.txt",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/design/basic-config/seowp-menu-mobile-offcanvas.txt",
+		"/C/Users/carlos/Documents/Arcenal Wordpress/girlshare.ro_SEO WP v1.6.1 - Social Media and Digital Marketing Agency/seowp/Theme/condorazul/condorazul/README.md",
+		"/C/xampp/htdocs/danotours/includes/carousel.jade",
+		"/C/xampp/htdocs/danotours/index.jade",
+		"/C/xampp/htdocs/danotours/includes/enviocotizaciones.php",
+		"/C/xampp/htdocs/danotours/includes/envioreservar.php",
+		"/C/xampp/htdocs/danotours/reservar.jade",
+		"/C/xampp/htdocs/danotours/cotizaciones.jade",
+		"/C/xampp/htdocs/danotours/contenidocotizacion.html",
+		"/C/Users/carlos/Downloads/PHPMailer-master/PHPMailer-master/examples/gmail.phps",
+		"/C/xampp/htdocs/danotours/pruebacorreo.php",
+		"/C/xampp/htdocs/danotours/class/phpmailer/contenidocotizacion.html",
+		"/C/Users/carlos/Downloads/PHPMailer-master/PHPMailer-master/examples/contents.html",
+		"/C/Users/carlos/Downloads/PHPMailer-master/PHPMailer-master/examples/mail.phps",
+		"/C/Users/carlos/Downloads/PHPMailer-master/PHPMailer-master/examples/index.html",
+		"/C/xampp/htdocs/danotours/includes/enviocontacto.php",
+		"/C/Users/carlos/Desktop/wp-config.php2",
+		"/C/xampp/htdocs/talento/app/codigo curso.txt",
+		"/C/xampp/htdocs/talento/app/acciones.php",
+		"/C/xampp/htdocs/danotours/confirmacionenvioform.jade",
+		"/C/Users/carlos/Downloads/correos vereda",
+		"/C/xampp/htdocs/danotours/css/estilosglobales.styl",
+		"/C/xampp/htdocs/danotours/includes/formulario.jade",
+		"/C/xampp/htdocs/danotours/tours-caripe.jade",
+		"/C/xampp/htdocs/danotours/tours-coloniatovar.jade",
+		"/C/xampp/htdocs/danotours/tours-gransabana.jade",
+		"/C/xampp/htdocs/danotours/tours-sucre.jade",
+		"/C/xampp/htdocs/danotours/tours-puertolacruz.jade",
+		"/C/xampp/htdocs/danotours/tours-merida.jade",
+		"/C/xampp/htdocs/danotours/paquetesturisticos.jade",
+		"/C/xampp/htdocs/danotours/empresa.jade",
+		"/C/xampp/htdocs/danotours/contactenos.jade",
+		"/C/xampp/htdocs/talentopanama/contacto.php",
+		"/C/xampp/htdocs/talentopanama/enviocontacto.php",
+		"/C/xampp/htdocs/talento/confirmacion_correo.php",
+		"/C/xampp/htdocs/talento/contacto.php",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/index.php",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/content.php",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/single.php",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/comments.php",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/sidebar.php",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/css/estilosglobales.styl",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/page-templates/front-page.php",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/content-none.php",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/content-page.php",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/functions.php",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/languages/twentytwelve.pot",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/sidebar-front.php",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/includes/pie.php",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/header.php",
+		"/C/xampp/htdocs/danotours/blog/wp-content/themes/danotours/content-status.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"C:/xampp/htdocs/muebles1/",
+			"http://localhost/muebles1",
+			"localhost",
+			"30",
+			"mmm_fullwidth_container ",
+			"brushed",
+			"localhost",
+			"localhost/rentacar",
+			"webprototipo1.esy.es",
+			"webprototipo1",
+			".css",
+			"http://localhost/rentacarpro",
+			"webprototipo1",
+			"http://webprototipo1.esy.es",
+			"http://webprototipo1.esy.es/",
+			"30",
+			"time",
+			"contact.html",
+			"recaptchalib.php",
+			"<form",
+			"form",
+			"Lumberman Designs",
+			"SEO WP Theme",
+			"©2014 SEO WP Theme. All Rights Reserved. Proudly made by Lumberman Designs",
+			"LBMN_DEVELOPER_NAME_DISPLAY",
+			"themeforest.net",
+			"http://themeforest.net/licenses",
+			"http://seowp.lumbermandesigns.com/",
+			"+themeforest",
+			"http://themeforest.net/user/lumbermandesigns",
+			"define('LBMN_INSTALLER', 'http://seowptheme.com');",
+			"define('LBMN_SUPPORT_URL', 'http://themeforest.net/user/lumbermandesigns#contact');",
+			"define('LBMN_DEVELOPER_URL', 'http://themeforest.net/user/lumbermandesigns')",
+			"define('LBMN_DEVELOPER_NAME_DISPLAY', 'Lumberman Designs');",
+			"define('LBMN_THEME_NAME_DISPLAY', 'SEOWP Theme');",
+			"Tags: white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, featured-images, flexible-header, full-width-template, post-formats, theme-options, translation-ready",
+			"License URI: http://themeforest.net/licenses",
+			"Version: 1.6.1",
+			"Description: SEOWP is a clean theme specially designed for Digital Marketing Agencies and their clients.",
+			"Author URI: http://themeforest.net/user/lumbermandesigns",
+			"Author: Lumberman Designs",
+			"Theme URI: http://seowp.lumbermandesigns.com/",
+			"themeforest",
+			"Theme back-end JavaScript",
+			"Send your ideas on code improvement or new hook requests using",
+			"contact form on http://themeforest.net/user/lumbermandesigns",
+			"themeforest",
+			" * @package    SEOWP WordPress Theme\n * @author     Vlad Mitkovsky <info@lumbermandesigns.com>\n * @copyright  2014 Lumberman Designs\n * @license    http://themeforest.net/licenses\n * @link       http://themeforest.net/user/lumbermandesigns",
+			">",
+			" <",
+			",",
+			"assistive-text",
+			"header",
+			"#contenidoblog",
+			"contenidoblog",
+			"contenido",
+			"aside",
+			"enlacesnav",
+			"im&#xe1;genes",
+			"pmerida",
+			"col-md-4",
+			"if",
+			"$_GET['e']",
+			"if(e",
+			"\n\n",
+			"  ",
+			"..",
+			"[class^=\"icon-\"],",
+			"i",
+			"img/",
+			"http://webysoftwarevenezuela.com/dano/img/",
+			"im&#xe1;genes",
+			"panel",
+			"profesio",
+			"estados",
+			"function estado",
+			"PublicarOtraOferta",
+			"mostrarFormOf",
+			"estatusacademico",
+			"|",
+			"'active'",
+			"\"",
+			"  ",
+			"public",
+			"	if(filefototipo==\"image/jpeg\")\n	{\n		if(filefototamano<2000000)\n		{\n			alert(\"bien\");\n		}else\n		{\n			alert(\"Por favor sleccione un archivo de imagen con formato JPG que sea menor de 2MB\");\n			return false;\n		}\n	}else\n	{\n		alert(\"Por favor sleccione un archivo de imagen con formato JPG\");\n		return false;\n	}",
+			"  ",
+			"fregistrousuario.jade",
+			"<?php require_once(\"class/motor.php\"); $tra=new talento(); $reg=$tra->consultaOfertas(10); ?><!DOCTYPE html><html lang=\"es\"></html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><link rel=\"shortcut icon\" href=\"images/favicon.ico\"><title>El mundo del talento humano - Consultores gerenciales</title><link href=\"css/bootstrap.min.css\" rel=\"stylesheet\" type=\"text/css\"><link href=\"css/estilos_talento.css\" rel=\"stylesheet\" type=\"text/css\"><?php include_once(\"analyticstracking.php\") ?></head><body onload=\"MM_preloadImages('images/bolsa-trabajo-in.png','images/panel-in.png','images/up_curriculo_g.png','images/postularse_out.png','images/boton_buscar_out.png')\"><div id=\"contenedor_index\"><div id=\"resultados\"></div><div id=\"resultadosError\"></div><div id=\"contenedor_header\"><div id=\"div_logo\"><img src=\"images/logo-talento-humano.png\" width=\"361\" height=\"144\" alt=\"El mundo del talento humano\"></div><div id=\"cont_menu_superior\"><div id=\"cont_panel\"><div id=\"cont_panama\"><img src=\"images/panama.png\" width=\"105\" height=\"42\" alt=\"panamá\"></div><div id=\"bolsa_trabajo\"><a href=\"iniciarSesion.php\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('Image3','','images/bolsa-trabajo-in.png',1)\"><img id=\"Image3\" src=\"images/bolsa-trabajo-out.png\" alt=\"Bolsa de trabajo\" width=\"174\" height=\"42\"></a></div><div id=\"boton_panel\"><a href=\"iniciarSesion.php\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('Image4','','images/panel-in.png',1)\"><img id=\"Image4\" src=\"images/panel-out.png\" alt=\"Panel\" width=\"109\" height=\"42\"></a></div><div id=\"botones_menu\"><a href=\"index.php\" onclick=\"\" class=\"button\"><span>INICIO</span></a><a href=\"empresa.php\" onclick=\"\" class=\"button\"><span>EMPRESA</span></a><a href=\"politica.php\" onclick=\"\" class=\"button\"><span>POLÍTICA</span></a><a href=\"servicios.php\" onclick=\"\" class=\"button\"><span>SERVICIOS</span></a><a href=\"adiestramiento.php\" onclick=\"\" class=\"button\"><span>ADIESTRAMIENTO</span></a><a href=\"contacto.php\" onclick=\"\" class=\"button\"><span>CONTACTO</span></a></div></div></div><div id=\"espacio_header\"></div><div id=\"div_buscador\"><?php require_once('include/buscadorOfertas.php'); ?></div></div><div id=\"titulo_index\">Somos aliados estratégicos para el éxito sostenido de nuestros clientes</div><div id=\"cont_registrarse\"><div id=\"registrarse\"><a href=\"registro.html\">Registrate</a></div></div><form id=\"loginUsuario\"><div id=\"cont_usuario\"><div id=\"usuario\">¿Eres usuario? <a href=\"iniciarSesion.php\">Inicia sesión	</a></div><div id=\"login\">Email:</div><div id=\"box_login\"><input name=\"u\" id=\"u\" type=\"text\" size=\"20\"></div></div><div id=\"cont_clave\"><div id=\"clave\"><a href=\"olvidoClave.php\">¿olvidaste tu clave?</a></div><div id=\"clave_inf\">Clave:</div><div id=\"box_clave\"><input name=\"c\" id=\"c\" type=\"password\" size=\"10\">\n<input type=\"button\" id=\"btnEntrar\" name=\"btnEntrar\" value=\"Entrar\"></div></div></form><div class=\"box_cont_registro\"><div class=\"dere_registro\"><div class=\"titulo_registro\">Ingresa correctamente tus datos para que nuestro sistema lo valide y así ser parte de las ofertas de trabajo de El Mundo del Talento</div><div class=\"espacio_registro\"></div><div id=\"mensajenombre\" style=\"display:none\"><p>Nombre no Cargado, por Favor Indiquenos su nombre</p></div><div id=\"mensajeclavesdintintas\" style=\"display:none\"><p>Las claves no coinciden por favor verifique e intente de nuevo</p></div><div id=\"cargando\" style=\"display:none\"><p>Los datos estan siendo cargados</p></div><div id=\"exito\" style=\"display:none\"><div class=\"titulo_registro2\">¡Felicidades! tu registro se ha realizado con éxito, hemos enviado un mensaje de confirmación a tu correo electrónico, por favor confirma tu cuenta para continuar. (Si no recibe el correo en 5 minutos, por favor revisar en la carpeta SPAM)</div>\n<div class=\"correo_registro2\"><img src=\"images/confirmacion.jpg\" width=\"302\" height=\"200\" alt=\"registro exitoso\"></div></div><div id=\"fracaso\" style=\"display:none\"><p>Los datos no han sido cargados, error en el servidor</p></div><form name=\"form\" method=\"post\" id=\"formdata\"><div class=\"nombre_registro\">Nombres</div><div class=\"nombre_registro\">Apellidos</div><div class=\"nombre_registro\"><label for=\"textfield\"></label><input id=\"nombre\" name=\"nombre\" type=\"text\" size=\"40\"></div><div class=\"nombre_registro\"><label for=\"textfield2\"></label><input id=\"apellidos\" name=\"apellidos\" type=\"text\" size=\"40\"></div><div class=\"correo_registro\">Dirección de Correo</div><div class=\"campocorreo\"><label for=\"textfield3\"></label><input id=\"email\" name=\"email\" type=\"text\" size=\"60\"></div><div class=\"nombre_registro\">Contraseña</div><div class=\"nombre_registro\">Repita Contraseña</div>\n<div class=\"nombre_registro\"><label for=\"textfield\"></label><input id=\"clave1\" name=\"clave1\" type=\"password\" size=\"40\"></div><div class=\"nombre_registro\"><label for=\"textfield2\"></label><input id=\"clave2\" name=\"clave2\" type=\"password\" size=\"40\"></div><div class=\"registro_send_boton\"><input name=\"act\" type=\"hidden\" value=\"registrop\"><input id=\"btnRegistrarse\" type=\"button\" name=\"btnRegistrarse\" value=\"Registrarse en el Mundo del Talento Humano\" class=\"btn btn-success\"></div></form></div><div class=\"izq_registro\"><img src=\"images/registro_talento.png\" width=\"386\" height=\"465\" alt=\"registro talento humano\"></div></div><div id=\"footer\"><img src=\"images/foot_provisional.jpg\" width=\"1100\" height=\"53\" alt=\"todos los derechos reservados - el mundo del talento humano\"></div></div><script src=\"js/jquery.js\"></script><script src=\"js/save.js\"></script></body>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://www.mismuebles.com/",
+			"http://www.mismuebles.com",
+			"www.mismuebles.com",
+			"executivesrentacar.com",
+			"localhost/rentacar",
+			"http://localhost/rentacar",
+			"http://localhost/rentacarpro",
+			"http://localhost/rentacarpro/",
+			"contact.php",
+			"",
+			"http://webysoftwarevenezuela.com/",
+			"+webysoftwarevenezuela",
+			"http://webysoftwarevenezuela.com",
+			"define('LBMN_INSTALLER', 'http://webysoftwarevenezuela.com');",
+			"define('LBMN_SUPPORT_URL', 'http://webysoftwarevenezuela.com');",
+			"define('LBMN_DEVELOPER_URL', 'http://webysoftwarevenezuela.com')",
+			"define('LBMN_THEME_NAME_DISPLAY', 'WebySoftwareVenezuela');",
+			"define('LBMN_THEME_NAME_DISPLAY', 'CondorAzul');",
+			"Tags: tema, wordpress, optimizado, seo, wysv",
+			"License URI: http://webysoftwarevenezuela.com",
+			"Version: 1",
+			"Description: CondorAzul es un tema para Wordpress hecho para promocionar empresas y negocios.",
+			"Author URI: http://webysoftwarevenezuela.com/",
+			"Author: WYSV",
+			"Theme URI: http://webysoftwarevenezuela.com/",
+			"Sistema BackEnd en JavaScript",
+			"Envienos cualquier duda o sugerencia",
+			"contactenos por www.webysoftwarevenezuela.com",
+			" * @package    CondorAzul Tema para WordPress\n * @author     WYSV <contacto@webysoftwarevenezuela.com>\n * @copyright  2015 WYSV",
+			"",
+			"	",
+			"",
+			"img",
+			"col-md-12",
+			"<?php if",
+			"isset($_GET['e']) && $_GET['e']",
+			"if($_GET['e']",
+			"\n",
+			"",
+			"	",
+			"http://netdna.bootstrapcdn.com/font-awesome/3.1.1",
+			"http://webysoftwarevenezuela.com/dano/img/",
+			"img/",
+			"img",
+			"\"active\"",
+			"'",
+			"	"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1496,
+								1496
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "stylesheets/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "clasegit.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
